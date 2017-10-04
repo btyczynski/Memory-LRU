@@ -1,0 +1,7 @@
+mv bx 5 
+mv dx 4 
+elo belo 3214
+lo 125 
+mov ax bx 
+sv ax $30
+xc do do buelo
